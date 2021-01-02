@@ -10,7 +10,8 @@ keywords: Game
 ### 备份
 ----
 用十字键上下移动，用A选择软件，然后选择“**新建…”或按下L**来备份存档
-![软件](../images/checkpoint.jpg)
+<img src
+="../images/checkpoint.jpg" />
 当软件被选中时，“新建…”会有**蓝色边框**。
 ### 恢复
 ----
@@ -25,5 +26,5 @@ _如果你分不清Select和Start，你是傻逼。_
 ### 游戏币修改
 ----
 按住Select，会出现这样的菜单。 
-![菜单](../images/checkpointcheat.bmp)
+<img src="../images/checkpointcheat.bmp"/>
 看到下屏右上角的游戏币图标了吗？点击它，输入一个数字，回到桌面你就会发现你的游戏币增加了。
