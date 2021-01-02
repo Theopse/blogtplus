@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://Theopse.github.io/blogtplus
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 新的3DS探索之旅
+subtitle: "如果你看不到下面的东西，请你自戳双眼"
+description: "害怕"
+keywords: nt,sb
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -24,7 +24,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-05-03
+        start_date: 2020-01-03
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: 
+author: Counta
+organization: Theopse,Straysoul
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: Counta
+location: Nanning, China
+email: thecountaso6@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -66,10 +66,6 @@ navs:
 #     label: 开源
 
   -
-    href: /wiki/
-    label: 维基
-
-  -
     href: /links/
     label: 链接
 
@@ -77,10 +73,6 @@ navs:
     href: /about/
     label: 关于
 
-# ---------------- #
-#       RSS        #
-# ---------------- #
-subscribe_rss: /feed.xml
 
 # ---------------- #
 #      Jekyll      #
@@ -139,7 +131,7 @@ lazy_load_disqus : false
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
