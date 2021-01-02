@@ -8,7 +8,7 @@ menu: 维基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> 我们抖擞精神，奋发向前，却如逆水行舟，被不断推回到往昔岁月。
 
 <ul class="listing">
 {% for wiki in site.wiki %}
