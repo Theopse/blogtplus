@@ -36,15 +36,15 @@ _你如果看不懂，请自戳双眼_
 1. 打开主机设置（System Settings/本体の設定）
 2. 选择其他设置（Other Settings/その他の設定）
 
- ![第二步](../images/sysup1.jpg)
+ ![第二步](/images/sysup1.jpg)
 
 3. 滑至最后一页
 
- ![第三步](../images/sysup2.jpg)
+ ![第三步](/images/sysup2.jpg)
 
 4. 选择主机更新（System Update/本体の更新）
 
- ![第四步](../images/sysup3.jpg)
+ ![第四步](/images/sysup3.jpg)
 
 5. 两次点击右侧选项
 6. 等待…
