@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wiki
-description: 人越学越觉得自己无知
+description: 我根本没打算写…
 keywords: 维基, Wiki
 comments: false
 menu: 维基
