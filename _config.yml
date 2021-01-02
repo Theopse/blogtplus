@@ -38,7 +38,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Counta
+author: Counta,Rintim
 organization: Theopse,Straysoul
 organization_url: 
 github_username: Counta
@@ -72,6 +72,10 @@ navs:
   -
     href: /about/
     label: 关于
+
+  -
+    href: /wiki/
+    label: 对线助手
 
 
 # ---------------- #
