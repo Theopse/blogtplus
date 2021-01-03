@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 安装游戏出现问题(Hash Check)
-categories: game
+categories: FBI
 description: 用FBI安装游戏出问题的都是屑，整天伸手，nt。
 keywords: FBI
 ---
