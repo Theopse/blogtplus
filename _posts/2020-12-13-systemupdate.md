@@ -32,6 +32,13 @@ _你需要开机时按住select来查看luma的版本。_
 [更新Luma](https://stray-soul.site/index.php/updateluma10-2)
 
 _你如果看不懂，请自戳双眼_
+
+### 如果不这么做…
+
+![更新到版本46而不更新luma](/images/se46.jpg)
+
+>更新到版本46而不更新luma为10.2.1就会这样
+
 ### 更新主机
 1. 打开主机设置（System Settings/本体の設定）
 2. 选择其他设置（Other Settings/その他の設定）
