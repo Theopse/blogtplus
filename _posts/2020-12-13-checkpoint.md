@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 备份恢复存档（Checkpoint）
-categories: Game
+categories: apps
 description: 大聪明
 keywords: Game
 ---
