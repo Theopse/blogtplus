@@ -26,6 +26,10 @@ _你需要开机时按住select来查看luma的版本。_
 #### 当你甚至没有luma
 [主题破解转B9](https://stray-soul.site/index.php/menuhaxtob9)
 [414转B9](https://stray-soul.site/index.php/414tob9)
+
+### 如果你是中文系统…
+[CTRTRANSFER](https://stray-soul.site/index.php/ctrtransferkeep-app)
+
 ### 更新Luma到10.2.1
 火狐写有教程。
 
