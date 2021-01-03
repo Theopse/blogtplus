@@ -26,14 +26,14 @@ _你需要开机时按住select来查看luma的版本。_
 #### 当你甚至没有luma
 [主题破解转B9](https://stray-soul.site/index.php/menuhaxtob9)
 [414转B9](https://stray-soul.site/index.php/414tob9)
-### 更新Luma
+### 更新Luma到10.2.1
 火狐写有教程。
 
 [更新Luma](https://stray-soul.site/index.php/updateluma10-2)
 
 _你如果看不懂，请自戳双眼_
 
-### 如果不这么做…
+#### 如果不这么做…
 
 ![更新到版本46而不更新luma](/images/se46.jpg)
 
