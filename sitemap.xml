@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+  <url>
+    <loc>https://blogts.theopse.org/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/categories/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/links/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/about/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/wiki/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/2021/01/07/pin/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/2020/12/13/systemupdate/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/2020/12/13/checkpoint/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/2020/12/13/fbiinstallwrong/</loc>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/2020/01/03/friend/</loc>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/2020/01/02/one-pic-to-say-Chinese-3ds/</loc>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/wiki/a9lh/</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/wiki/b9s/</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://blogts.theopse.org/wiki/ban/</loc>
+    <priority>0.85</priority>
+  </url>
+
+</urlset>
