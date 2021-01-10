@@ -9,17 +9,17 @@
 
   <url>
     <loc>https://blogts.theopse.org/categories/</loc>
-    <priority>1.00</priority>
+    <priority>0.93</priority>
   </url>
 
   <url>
     <loc>https://blogts.theopse.org/links/</loc>
-    <priority>1.00</priority>
+    <priority>0.83</priority>
   </url>
 
   <url>
     <loc>https://blogts.theopse.org/about/</loc>
-    <priority>1.00</priority>
+    <priority>0.03</priority>
   </url>
 
   <url>
@@ -29,32 +29,32 @@
 
   <url>
     <loc>https://blogts.theopse.org/2021/01/07/pin/</loc>
-    <priority>1.00</priority>
+    <priority>0.97</priority>
   </url>
 
   <url>
     <loc>https://blogts.theopse.org/2020/12/13/systemupdate/</loc>
-    <priority>1.00</priority>
+    <priority>0.97</priority>
   </url>
 
   <url>
     <loc>https://blogts.theopse.org/2020/12/13/checkpoint/</loc>
-    <priority>1.00</priority>
+    <priority>0.97</priority>
   </url>
 
   <url>
     <loc>https://blogts.theopse.org/2020/12/13/fbiinstallwrong/</loc>
-    <priority>0.88</priority>
+    <priority>0.97</priority>
   </url>
 
   <url>
     <loc>https://blogts.theopse.org/2020/01/03/friend/</loc>
-    <priority>0.88</priority>
+    <priority>0.97</priority>
   </url>
 
   <url>
     <loc>https://blogts.theopse.org/2020/01/02/one-pic-to-say-Chinese-3ds/</loc>
-    <priority>0.88</priority>
+    <priority>0.97</priority>
   </url>
 
   <url>
