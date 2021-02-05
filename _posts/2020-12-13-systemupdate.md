@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 更新3DS系统的注意事项
+title: 如何更新3DS的系统？
 categories: System
 description: 你会更新系统吗？不会更就别乱更，乱码了一群伸手党又飞出来问，真nt。
-keywords: Help System Update
+keywords: Help,System,Update,How,3DS,11.14.0-46
 ---
 
 ## 主机更新
