@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 安装游戏出现问题(Hash Check)
+title: 3DS安装游戏出现问题(Hash Check)
 categories: FBI
 description: 用FBI安装游戏出问题的都是屑，整天伸手，nt。
-keywords: FBI
+keywords: FBI,install,game,hash,check
 ---
 
 ## FBI安装游戏失败
