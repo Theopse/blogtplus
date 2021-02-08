@@ -20,7 +20,7 @@ keywords: region,japan,usa,americas,3ds,ctrtransfer,another
 
 - 你会**无法进入Nintendo Eshop**。会发出007-2001的错误代码。这意味着你**不能通过Eshop下载和更新游戏**，**只能通过更新补丁或者盗版**。
 
-!(007-2001)[https://raw.githubusercontent.com/Theopse/blogtplus/master/images/007-2001.bmp]
+![007-2001](https://raw.githubusercontent.com/Theopse/blogtplus/master/images/007-2001.bmp)
 
 - 你**只能用自制软件来使用主题**（如果跨区到港台神等）
 
@@ -36,5 +36,5 @@ keywords: region,japan,usa,americas,3ds,ctrtransfer,another
 
 火狐写有教程。
 
-(Ctrtransfer)[https://stray-soul.com/index.php/ctrtransferkeep-app]
+[Ctrtransfer](https://stray-soul.com/index.php/ctrtransferkeep-app)
 
