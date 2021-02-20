@@ -1,12 +1,10 @@
 ---
-​---
 layout: post
 title: 笑话收集
 categories: laugh
 description: 生草笑话大合集
 keywords: Clown
 topmost: true
-​---
 ---
 
 # 跟基础知识不好有关的
