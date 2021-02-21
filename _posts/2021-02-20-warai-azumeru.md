@@ -7,11 +7,11 @@ keywords: Clown
 topmost: true
 ---
 
-# 跟基础知识不好有关的
+## 1.跟基础知识不好有关的
 
 ---
 
-#### 我的系统？是B9S啊！
+#### 1.1 我的系统？是B9S啊！
 
 ![b9s](https://raw.githubusercontent.com/Theopse/blogtplus/master/images/mysystemisb9s.png)
 
