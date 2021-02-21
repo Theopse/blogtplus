@@ -15,5 +15,5 @@
 # 面向人群？
 我们面向的是**3DS已经破解的，使用Boot9Strap作为方式，使用Luma3DS作为cfw的用户群。**
 如果你没有破解 见
-[一只火狐的杂物间]（https://stray-soul.com/）
+[一只火狐的杂物间](https://stray-soul.com/)
 我们希望写这个能让我们好受一些、仅此。
