@@ -15,11 +15,11 @@ topmost: true
 
 #### 1.1 我的系统？是B9S啊！
 
-![b9s](https://raw.githubusercontent.com/Theopse/blogtplus/master/images/mysystemisb9s.png)
+![b9s](images/mysystemisb9s.png)
 
 ## 2.瞎乱整Luma的
 ---
 
 #### 2.1 怎么设置？那我怎么设置？
 
-图片过长 请打开链接查看：[https://raw.githubusercontent.com/Theopse/blogtplus/master/images/laugh/whatsido.png](https://raw.githubusercontent.com/Theopse/blogtplus/master/images/laugh/whatsido.png)
+图片过长 请打开链接查看：[https://cdn.jsdelivr.net/gh/Theopse/blogtplus@master/images/laugh/whatsido.png](/images/laugh/whatsido.png)
