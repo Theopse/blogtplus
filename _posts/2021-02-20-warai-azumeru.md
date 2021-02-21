@@ -7,6 +7,8 @@ keywords: Clown
 topmost: true
 ---
 
+本文已更新到1.1 2.1，
+
 ## 1.跟基础知识不好有关的
 
 ---
