@@ -22,4 +22,4 @@ topmost: true
 
 #### 2.1 怎么设置？那我怎么设置？
 
-图片过长 请打开链接查看：[](https://raw.githubusercontent.com/Theopse/blogtplus/master/images/laugh/whatsido.png)
+图片过长 请打开链接查看：[https://raw.githubusercontent.com/Theopse/blogtplus/master/images/laugh/whatsido.png](https://raw.githubusercontent.com/Theopse/blogtplus/master/images/laugh/whatsido.png)
