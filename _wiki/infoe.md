@@ -8,7 +8,7 @@ keywords: infoe
 
 > 傻逼语录：我的系统版本是10.2.1
 
-### 破解程序 / 破解 / 引导方式（Hax / Method Of Launching Custom Firmware）（或称Sighax，暂时存疑）
+### 破解程序 / 破解 / 引导方式（Hax / Method Of Launching Custom Firmware）
 
 ---
 
@@ -18,7 +18,7 @@ keywords: infoe
 
 内网随意，反正理解就行
 
-例子：Boot9Strap, Arm9LoaderHax
+例子：Boot9Strap, Arm9LoaderHax, Sighax
 
 ### 破解软件
 
