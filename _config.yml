@@ -123,7 +123,7 @@ gitment:
         client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: Counta
+    owner: Theopse
     repo: bco
     clientID: f84f915f97a8ac61be73
     clientSecret: a8b33d16c63d0c745e4c9d63ea9b45d3b908684e
