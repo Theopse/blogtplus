@@ -127,6 +127,7 @@ gitalk:
     repo: bco
     clientID: f84f915f97a8ac61be73
     clientSecret: a8b33d16c63d0c745e4c9d63ea9b45d3b908684e
+    proxy: "https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token"
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
