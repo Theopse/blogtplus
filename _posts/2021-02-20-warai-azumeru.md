@@ -15,3 +15,9 @@ topmost: true
 
 ![b9s](https://raw.githubusercontent.com/Theopse/blogtplus/master/images/mysystemisb9s.png)
 
+## 2.瞎乱整Luma的
+---
+
+#### 2.1 怎么设置？那我怎么设置？
+
+图片过长 请打开链接查看：https://raw.githubusercontent.com/Theopse/blogtplus/master/images/laugh/whatsido.png
