@@ -18,7 +18,7 @@ keywords: infoe
 
 内网随意，反正理解就行
 
-例子：Boot9Strap, Arm9LoaderHax, Sighax
+例子：Boot9Strap, Arm9LoaderHax, sighax
 
 ### 破解软件
 
