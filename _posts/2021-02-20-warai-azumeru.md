@@ -15,7 +15,7 @@ topmost: true
 
 #### 1.1 我的系统？是B9S啊！
 
-![b9s](images/mysystemisb9s.png)
+![b9s](/images/mysystemisb9s.png)
 
 ## 2.瞎乱整Luma的
 ---
