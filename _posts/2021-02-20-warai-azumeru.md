@@ -24,7 +24,7 @@ topmost: true
 
 图片过长 请打开链接查看：[https://cdn.jsdelivr.net/gh/Theopse/blogtplus@master/images/laugh/whatsido.png](/images/laugh/whatsido.png)
 
-## NAN.暂未整理
+## 3. 被奸商坑惨的
 
 ---
 
@@ -33,3 +33,11 @@ topmost: true
 ---
 
 ![other2](/images/laugh/ahasda.png)
+
+## 4. 不知道自己在干嘛的
+---
+
+#### 4.1 36步了会怎么样？
+
+
+![step36](/images/laugh/step36will.jpg)
