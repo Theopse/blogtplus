@@ -7,7 +7,7 @@ keywords: Clown
 topmost: true
 ---
 
-> 本文已更新到1.1 2.1，
+> 本文已更新到1.1 2.1，3.2,4.1,5.1
 
 ## 1.跟基础知识不好有关的
 
@@ -41,3 +41,11 @@ topmost: true
 
 
 ![step36](/images/laugh/step36will.jpg)
+
+
+## 5. 看不懂他的神仙问题
+---
+
+#### 5.1 神仙拍照 地狱绘图
+
+![light](/images/laugh/light.jpg)
