@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[2020/02/28\]3DS破解吧吧规
+title: [2020/02/28]3DS破解吧吧规
 categories: rule
 description: 3DS破解吧吧规
 keywords: Rule
